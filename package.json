@@ -1,0 +1,20 @@
+{
+  "name": "first-npm-welalo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welalo/first-npm-welalo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welalo/first-npm-welalo/issues"
+  },
+  "homepage": "https://github.com/welalo/first-npm-welalo#readme"
+}
